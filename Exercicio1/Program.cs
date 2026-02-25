@@ -260,7 +260,7 @@ namespace Exercicio1
             //        Console.WriteLine("Você não digitou um número!");
             //    }
             //}
-            
+
             //if (cont == 5)
             //{
             //    Console.WriteLine("Infelizmente você errou todos. Tente novamente amanhã!");
@@ -268,7 +268,40 @@ namespace Exercicio1
 
             // Ex 10
 
+            //int fator = 0;
 
+            //Console.WriteLine("Digite um número para ver seu fatorial: \n");
+            //if (int.TryParse(Console.ReadLine(), out int numero))
+            //{
+            //    fator = numero;
+            //    for (int i = numero; i > 1; i--)
+            //    {
+            //        numero *= i;
+            //    }
+
+            //    Console.WriteLine($"O fatorial do número {fator} é: {numero}");
+            //}
+
+            //Ex 11
+
+            Console.WriteLine("Digite um número para procurarmos números primos que vão até ele: ");
+            if (int.TryParse(Console.ReadLine(), out int limite))
+            {
+                int i = 1;
+
+                while (i < limite)
+                {
+                    if((i % 1 == 0) && (i % i != 0))
+                    {
+                        Console.WriteLine($"{i}\n");
+                        i++;
+                    }
+                    else
+                    {
+                        i++;
+                    }
+                }
+            }
         }
     }
 }
