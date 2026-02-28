@@ -268,13 +268,13 @@ namespace Exercicio1
 
             // Ex 10
 
-            //int fator = 0;
+            //int fator = 1;
 
             //Console.WriteLine("Digite um número para ver seu fatorial: \n");
             //if (int.TryParse(Console.ReadLine(), out int numero))
             //{
             //    fator = numero;
-            //    for (int i = numero; i > 1; i--)
+            //    for (int i = (numero - 1); i > 0; i--)
             //    {
             //        numero *= i;
             //    }
@@ -282,26 +282,50 @@ namespace Exercicio1
             //    Console.WriteLine($"O fatorial do número {fator} é: {numero}");
             //}
 
-            //Ex 11
+            //Ex 11 ?
 
             Console.WriteLine("Digite um número para procurarmos números primos que vão até ele: ");
-            if (int.TryParse(Console.ReadLine(), out int limite))
-            {
-                int i = 1;
+            int numero = Convert.ToInt32(Console.ReadLine());
+            int i = 2;
+            bool primo = true;
 
-                while (i < limite)
+            while (i < numero && (primo))
+            {
+                if ((numero % i) == 0)
                 {
-                    if((i % 1 == 0) && (i % i != 0))
-                    {
-                        Console.WriteLine($"{i}\n");
-                        i++;
-                    }
-                    else
-                    {
-                        i++;
-                    }
+                    primo = false;
                 }
+                i++;
             }
+
+            if (primo)
+            {
+                Console.WriteLine($"O número {numero} é primo");
+            }
+            else
+            {
+                Console.WriteLine($"O número {numero} não é primo");
+            }
+
+            //Ex 12
+
+            //Console.WriteLine("Digite um número para procurarmos números primos que vão até ele: ");
+            //if (int.TryParse(Console.ReadLine(), out int quant))
+            //{
+            //    int i = 0;
+            //    int a = 0;
+            //    int b = 1;
+
+            //    while (i < quant)
+            //    {
+
+            //        Console.WriteLine(a + " ");
+            //        int temp = a;
+            //        a = b;
+            //        b = temp + b;
+            //        i++;
+            //    }
+            //}
         }
     }
 }

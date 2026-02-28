@@ -1,0 +1,15 @@
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.AssemblyInfo.cs
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.sourcelink.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\bin\Debug\net10.0\Exercicio1-13.exe
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\bin\Debug\net10.0\Exercicio1-13.deps.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\bin\Debug\net10.0\Exercicio1-13.runtimeconfig.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\bin\Debug\net10.0\Exercicio1-13.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\bin\Debug\net10.0\Exercicio1-13.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\refint\Exercicio1-13.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\Exercicio1-13.genruntimeconfig.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Exercicio1-13\obj\Debug\net10.0\ref\Exercicio1-13.dll
