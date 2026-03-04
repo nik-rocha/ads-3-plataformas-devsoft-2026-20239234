@@ -18,13 +18,19 @@
                 bool pass5 = false;
                 bool pass6 = false;
 
-                if (s == null)
+                if (s == null || s == "")
                 {
                     pass1 = false;
                 }
                 else
                 {
                     pass1 = true;
+                }
+
+                if (!pass1)
+                {
+                    Console.WriteLine($"A senha {s} está vazia.");
+                    return false;
                 }
 
                 if (s.Length < 8)
@@ -34,6 +40,12 @@
                 else
                 {
                     pass2 = true;
+                }
+
+                if (!pass2)
+                {
+                    Console.WriteLine($"A senha {s} deve conter pelo menos 8 dígitos.");
+                    return false;
                 }
 
                 if (pass1 && pass2)
@@ -57,6 +69,12 @@
                     pass3 = false;
                 }
 
+                if (!pass3)
+                {
+                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 caractere maiúsculo.");
+                    return false;
+                }
+
                 if (pass1 && pass2 && pass3)
                 {
                     foreach (char c in s)
@@ -76,6 +94,12 @@
                 else
                 {
                     pass4 = false;
+                }
+
+                if (!pass4)
+                {
+                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 caractere minúsculo.");
+                    return false;
                 }
 
                 if (pass1 && pass2 && pass3 && pass4)
@@ -99,6 +123,12 @@
                     pass5 = false;
                 }
 
+                if (!pass5)
+                {
+                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 número.");
+                    return false;
+                }
+
                 if (pass1 && pass2 && pass3 && pass4 && pass5)
                 {
                     foreach (char c in s)
@@ -120,34 +150,10 @@
                     pass6 = false;
                 }
 
-                if (!pass1)
-                {
-                    Console.WriteLine($"A senha {s} está vazia.");
-                }
-
-                if (!pass2)
-                {
-                    Console.WriteLine($"A senha {s} deve conter pelo menos 8 dígitos.");
-                }
-
-                if (!pass3)
-                {
-                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 caractere maiúsculo.");
-                }
-
-                if (!pass4)
-                {
-                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 caractere minúsculo.");
-                }
-
-                if (!pass5)
-                {
-                    Console.WriteLine($"A senha {s} deve conter pelo menos 1 número.");
-                }
-
                 if (!pass6)
                 {
                     Console.WriteLine($"A senha {s} deve conter pelo menos 1 caractere especial.");
+                    return false;
                 }
 
                 if (pass1 && pass2 && pass3 && pass4 && pass5 && pass6)
