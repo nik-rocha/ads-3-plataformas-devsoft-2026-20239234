@@ -1,0 +1,15 @@
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\bin\Debug\net10.0\Aula3.exe
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\bin\Debug\net10.0\Aula3.deps.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\bin\Debug\net10.0\Aula3.runtimeconfig.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\bin\Debug\net10.0\Aula3.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\bin\Debug\net10.0\Aula3.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.AssemblyInfo.cs
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.sourcelink.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\refint\Aula3.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\Aula3.genruntimeconfig.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Aula3\obj\Debug\net10.0\ref\Aula3.dll

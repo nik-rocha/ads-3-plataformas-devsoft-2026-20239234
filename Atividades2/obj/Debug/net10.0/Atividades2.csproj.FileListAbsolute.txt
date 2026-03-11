@@ -1,0 +1,15 @@
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\bin\Debug\net10.0\Atividades2.exe
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\bin\Debug\net10.0\Atividades2.deps.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\bin\Debug\net10.0\Atividades2.runtimeconfig.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\bin\Debug\net10.0\Atividades2.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\bin\Debug\net10.0\Atividades2.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.AssemblyInfo.cs
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.sourcelink.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\refint\Atividades2.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\Atividades2.genruntimeconfig.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\Atividades2\obj\Debug\net10.0\ref\Atividades2.dll

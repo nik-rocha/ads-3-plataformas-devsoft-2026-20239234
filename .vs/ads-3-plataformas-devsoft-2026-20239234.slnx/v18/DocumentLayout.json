@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{830B7A7C-291E-47DE-AF6F-C6C9CD9148DF}|Atividades2\\Atividades2.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\atividades2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B7A7C-291E-47DE-AF6F-C6C9CD9148DF}|Atividades2\\Atividades2.csproj|solutionrelative:atividades2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Exercicio1-13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio1-13\\Exercicio1-13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -39,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Atividades2\\Program.cs",
+              "RelativeDocumentMoniker": "Atividades2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Atividades2\\Program.cs",
+              "RelativeToolTip": "Atividades2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:35:56.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aula3.csproj",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj",
+              "RelativeDocumentMoniker": "Aula3\\Aula3.csproj",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj",
+              "RelativeToolTip": "Aula3\\Aula3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T22:40:39.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Exercicio1-13.csproj",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Exercicio1-13.csproj",
               "RelativeDocumentMoniker": "Exercicio1-13\\Exercicio1-13.csproj",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "Exercicio1-13\\Exercicio1-13.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T22:28:06.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:28:06.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1-13\\Program.cs",
@@ -63,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula2\\Program.cs",
               "RelativeDocumentMoniker": "Aula2\\Program.cs",
@@ -75,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
@@ -83,12 +116,11 @@
               "RelativeToolTip": "Exercicio1\\Program.cs",
               "ViewState": "AgIAABMBAAAAAAAAAAAkwDABAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T22:33:34.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T22:33:34.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Exercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1\\Exercicio1.csproj",
               "RelativeDocumentMoniker": "Exercicio1\\Exercicio1.csproj",
