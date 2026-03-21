@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\forms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|solutionrelative:forms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\AttFormLista\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AttFormLista\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|solutionrelative:Forms1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\forms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B13C832E-1F5F-1D44-34B6-BAA953862D89}|Forms1\\Forms1.csproj|solutionrelative:forms1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Atividades2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atividades2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula3\\Aula3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Exercicio1-13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -46,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs",
-              "RelativeDocumentMoniker": "Forms1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs*",
-              "RelativeToolTip": "Forms1\\Form1.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T23:52:17.087Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -68,6 +59,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\AttFormLista\\Form1.cs",
+              "RelativeDocumentMoniker": "AttFormLista\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\AttFormLista\\Form1.cs [Design]",
+              "RelativeToolTip": "AttFormLista\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T22:37:42.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs*",
+              "RelativeToolTip": "Forms1\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:52:17.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Forms1\\Form1.cs",
               "RelativeDocumentMoniker": "Forms1\\Form1.cs",
@@ -85,13 +101,13 @@
               "RelativeDocumentMoniker": "Atividades2\\Program.cs",
               "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Atividades2\\Program.cs",
               "RelativeToolTip": "Atividades2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T00:35:56.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Aula3.csproj",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula3\\Aula3.csproj",
               "RelativeDocumentMoniker": "Aula3\\Aula3.csproj",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Exercicio1-13.csproj",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Exercicio1-13.csproj",
               "RelativeDocumentMoniker": "Exercicio1-13\\Exercicio1-13.csproj",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1-13\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1-13\\Program.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Aula2\\Program.cs",
               "RelativeDocumentMoniker": "Aula2\\Program.cs",
@@ -139,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
@@ -151,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Exercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Exercicio1\\Exercicio1.csproj",
               "RelativeDocumentMoniker": "Exercicio1\\Exercicio1.csproj",

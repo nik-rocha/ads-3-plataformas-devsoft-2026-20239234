@@ -1,0 +1,17 @@
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\bin\Debug\net10.0-windows\AttFormLista.exe
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\bin\Debug\net10.0-windows\AttFormLista.deps.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\bin\Debug\net10.0-windows\AttFormLista.runtimeconfig.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\bin\Debug\net10.0-windows\AttFormLista.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\bin\Debug\net10.0-windows\AttFormLista.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.Form1.resources
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.csproj.GenerateResource.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.AssemblyInfoInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.AssemblyInfo.cs
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.sourcelink.json
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\refint\AttFormLista.dll
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.pdb
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\AttFormLista.genruntimeconfig.cache
+C:\Users\Aula\Desktop\ads-3-plataformas-devsoft-2026-20239234\AttFormLista\obj\Debug\net10.0-windows\ref\AttFormLista.dll
