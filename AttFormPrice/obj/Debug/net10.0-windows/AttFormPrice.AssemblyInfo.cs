@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttFormPrice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41694bb471168c60dde2ac01b8257efd4ac1d56d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b20e9668726bed1c50062672abb2cf8578f8d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttFormPrice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttFormPrice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

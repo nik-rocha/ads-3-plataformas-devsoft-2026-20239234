@@ -1,0 +1,17 @@
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\bin\Debug\net10.0-windows\AttFormPrice.exe
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\bin\Debug\net10.0-windows\AttFormPrice.deps.json
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\bin\Debug\net10.0-windows\AttFormPrice.runtimeconfig.json
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\bin\Debug\net10.0-windows\AttFormPrice.dll
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\bin\Debug\net10.0-windows\AttFormPrice.pdb
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.Form1.resources
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.csproj.GenerateResource.cache
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.AssemblyInfoInputs.cache
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.AssemblyInfo.cs
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.csproj.CoreCompileInputs.cache
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.sourcelink.json
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.dll
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\refint\AttFormPrice.dll
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.pdb
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\AttFormPrice.genruntimeconfig.cache
+E:\Programação\ads-3-plataformas-devsoft-2026-20239234\AttFormPrice\obj\Debug\net10.0-windows\ref\AttFormPrice.dll
