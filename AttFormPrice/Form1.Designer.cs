@@ -142,8 +142,10 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.GridColor = Color.Black;
             dataGridView1.Location = new Point(31, 187);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.RightToLeft = RightToLeft.No;
             dataGridView1.Size = new Size(832, 440);
             dataGridView1.TabIndex = 9;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;

@@ -19,23 +19,29 @@ namespace AttFormPrice
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int prestacoes = int.Parse(textBoxPrestacoes.Text);
+            int qtd = int.Parse(textBoxPrestacoes.Text);
             double vValor = double.Parse(textBoxValor.Text);
             double vJuros = double.Parse(textBoxJuros.Text) / 100;
+            double prestacao = 0;
+            double jurosFormatado = 0;
+            double amortizacao = 0;
+            double valor = vValor;
+            prestacao = valor * ((Math.Pow((1 + vJuros), qtd) * vJuros) / (Math.Pow((1 + vJuros), qtd) - 1));
             List<Parcela> parcelas = new List<Parcela>();
 
-            for (int i = 1; i <= prestacoes; i++)
+            for (int i = 1; i <= qtd; i++)
             {
-                double valor = vValor;
-                double juros = valor * vJuros;
-                double valorP = valor * ((Math.Pow((1 + juros), i) * juros) / (Math.Pow((1 + juros), i) - 1));
-                valor = valor - (valorP - juros);
-
-                Parcela parcela = new Parcela() { nParcela = i, juros = juros, amortizacao = valorP - juros, sDevedor = valor };
+                jurosFormatado = valor * vJuros;
+                amortizacao = prestacao - jurosFormatado;
+                valor = valor - amortizacao;
+                Parcela parcela = new Parcela() { nParcela = i, juros = jurosFormatado, amortizacao = amortizacao, sDevedor = valor };
                 parcelas.Add(parcela);
             }
 
             dataGridView1.DataSource = parcelas;
+            dataGridView1.Columns["juros"].DefaultCellStyle.Format = "C2";
+            dataGridView1.Columns["amortizacao"].DefaultCellStyle.Format = "C2";
+            dataGridView1.Columns["sDevedor"].DefaultCellStyle.Format = "C2";
         }
 
         private void textBoxValor_TextChanged(object sender, EventArgs e)
