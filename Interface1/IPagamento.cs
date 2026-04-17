@@ -6,5 +6,8 @@ namespace Interface1
 {
     internal interface IPagamento
     {
+        void ProcessarPagamento(double valor);
+        string VerificarStatusPagamento();
+        string RetornaDescricaoFormaPagamento();
     }
 }

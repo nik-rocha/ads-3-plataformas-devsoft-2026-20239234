@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\pedidopresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:pedidopresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\pedidodelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:pedidodelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|c:\\users\\aula\\desktop\\ads-3-plataformas-devsoft-2026-20239234\\interface1\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F2AC77-AEDB-7BB0-D578-25D7BCF17C84}|Interface1.csproj|solutionrelative:ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:56:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoPresencial.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PedidoPresencial.cs",
+              "RelativeDocumentMoniker": "PedidoPresencial.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PedidoPresencial.cs",
+              "RelativeToolTip": "PedidoPresencial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:56:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PedidoDelivery.cs",
+              "RelativeDocumentMoniker": "PedidoDelivery.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PedidoDelivery.cs",
+              "RelativeToolTip": "PedidoDelivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:56:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagamentoDinheiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PagamentoDinheiro.cs",
+              "RelativeDocumentMoniker": "PagamentoDinheiro.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PagamentoDinheiro.cs",
+              "RelativeToolTip": "PagamentoDinheiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:56:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagamentoCartao.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PagamentoCartao.cs",
+              "RelativeDocumentMoniker": "PagamentoCartao.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\PagamentoCartao.cs",
+              "RelativeToolTip": "PagamentoCartao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:52:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedido.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Pedido.cs",
+              "RelativeToolTip": "Pedido.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:27:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\IPagamento.cs",
+              "RelativeDocumentMoniker": "IPagamento.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\IPagamento.cs",
+              "RelativeToolTip": "IPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:24:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:10:00.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:59:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "ItemPedido.cs",
+              "ToolTip": "C:\\Users\\Aula\\Desktop\\ads-3-plataformas-devsoft-2026-20239234\\Interface1\\ItemPedido.cs",
+              "RelativeToolTip": "ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:11:00.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
